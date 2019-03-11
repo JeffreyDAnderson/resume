@@ -4,7 +4,8 @@ jeffdander@gmail.com
 
 (801) 555-5555
 
-###EXPERIENCE
+### EXPERIENCE
+
 **University First Federal Credit Union**, West Jordan - *MSR*
 
 SEPTEMBER 2017 - AUGUST 2018
@@ -27,7 +28,7 @@ FEBRUARY 2013 - APRIL 2016
 - Organized team and sales goals, and helped team members meet the goals.
 - Performed managerial duties, such as end of month inventory and cash management.
 
-###EDUCATION
+### EDUCATION
 
 **Utah Valley University**, Orem - *Bachelor's Degree*
 
@@ -43,7 +44,7 @@ JANUARY 2011 - AUGUST 2015
 
 Graduated in fall 2015 with an Associate's of Science in General Education.
 
-###SKILLS
+### SKILLS
 
 - Service oriented.
 - Self-driven.
@@ -54,6 +55,6 @@ Graduated in fall 2015 with an Associate's of Science in General Education.
 - Positive thinker.
 - Problem solver.
 
-###AWARDS
+### AWARDS
 
 **Chick-fil-A Leadership Scholarship** 2015, Received from Chick-fil-A Corporate for excellence and dedication in the workplace.
