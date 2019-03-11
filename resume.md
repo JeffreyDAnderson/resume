@@ -3,7 +3,7 @@
 jeffdander@gmail.com
 
 (801) 555-5555
-
+---
 ### EXPERIENCE
 
 **University First Federal Credit Union**, West Jordan - *MSR*
